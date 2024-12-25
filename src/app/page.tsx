@@ -51,15 +51,15 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-white text-center">
             <div>
-              <div className="text-4xl font-bold mb-2">100K+</div>
+              <div className="text-4xl font-bold mb-2">10K+</div>
               <div className="text-blue-100">Active Users</div>
             </div>
             <div>
-              <div className="text-4xl font-bold mb-2">1M+</div>
+              <div className="text-4xl font-bold mb-2">100K+</div>
               <div className="text-blue-100">Meetings Scheduled</div>
             </div>
             <div>
-              <div className="text-4xl font-bold mb-2">99%</div>
+              <div className="text-4xl font-bold mb-2">90%</div>
               <div className="text-blue-100">Customer Satisfaction</div>
             </div>
           </div>
